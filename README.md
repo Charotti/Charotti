@@ -1,5 +1,8 @@
 ### Hi there 👋
   [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-lamy-webdev/)](https://www.linkedin.com/in/caroline-lamy-webdev/)
+  
+  🌱 I’m currently learning web developpement at Konexio and I looking for a 4/6 monthes stage from May
+  
 
 <!--
 **Charotti/Charotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +26,8 @@ Here are some ideas to get you started:
   
 - Frameworks :
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+- Infrastructure :
+  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
+  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
   
